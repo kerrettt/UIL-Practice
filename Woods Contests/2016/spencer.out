@@ -1,0 +1,60 @@
+for ( int x = 3 ; x <= 9 ; x++ )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 1 ; x <= 32 ; x*=2 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 44 ; x >= 1 ; x/=2 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 13 ; x >= 5 ; x-=4 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 1 ; x <= 131072 ; x*=2 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 12345679 ; x <= 999999999 ; x*=3 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 131072 ; x >= 1 ; x/=2 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = -1 ; x <= 131072 ; x*=-2 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 11 ; x <= 14641 ; x*=11 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 212 ; x <= 2968 ; x+=212 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 0 ; x <= 200 ; x+=10 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();
+for ( int x = 212 ; x <= 2019963136 ; x*=212 )
+{
+	System.out.print(x+" ");
+}
+System.out.println();

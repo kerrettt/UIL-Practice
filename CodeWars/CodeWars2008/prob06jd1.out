@@ -1,0 +1,2 @@
+c /= 2 if( c+3*a < log(9*b) );
+perl = smart if( 1 == 2 );

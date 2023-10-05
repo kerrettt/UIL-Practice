@@ -1,0 +1,55 @@
+8
+4 10 2 520
+Pizza_Palace 0
+Papas_Pizza 240
+3 2 4 110
+Lisa_Pizza 0
+Little_Ceaser 20
+Testing_Pizza_Palace 50 
+Johns_Dine_And_Dash 30
+5 10 10 2000
+A 0
+B 300
+C 400
+D 200
+E 400
+F 200
+G 100
+H 100
+I 100
+J 100
+5 10 10 2000
+A 0
+B 300
+C 100
+D 200
+E 100
+F 200
+G 100
+H 100
+I 100
+J 100
+5 10 10 2000
+A 0
+B 300
+C 400
+D 200
+E 450
+F 200
+G 100
+H 100
+I 100
+J 100
+1 1 3 20
+A 0
+B 7
+C 6
+1 1 3 20
+A 0
+B 7
+C 8
+1 1 3 20
+A 0
+B 5
+C 5
+

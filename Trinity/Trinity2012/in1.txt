@@ -1,0 +1,25 @@
+23
+'Mick Jagger' July 26, 1943
+'Mark Lewis' May 14, 1974
+'Justin Bieber' March 1, 1994
+'Ke$ha' March 1, 1987
+'Keith. Wedelich' February 14, 1992
+'Mr. D. Saur' January 1, 1900
+'Angelina Jolie' June 4, 1975
+'John Travolta' February 18, 1954
+'Ke$ha' March 1, 1987
+'Britney Spears' December 2, 1981
+'Leonardo DiCaprio' November 11, 1974
+'New Guy' January 1, 2012
+'Date Test1' January 1, 1012
+'Date Test2' January 1, 999
+'Date Test3' January 1, 11000
+'Date Test4' February 29, 2000
+'Date Test5' January 1, 0
+'Date Test6' January 1, 1
+'Month Test January February 2, the 3rd' January 1, 1980
+'Next Int breaker 1 1700' January 1, 1980
+'Ends with Mick Jagger' July 26, 1943
+'Mick Jagger Starts with' July 26, 1943
+'Mick_Jagger' July 26, 1943
+

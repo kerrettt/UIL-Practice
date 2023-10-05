@@ -1,0 +1,122 @@
+8
+3
+Toontown 0 Westford 3 Georgetown 5
+Westford 3 Georgetown 4
+Georgetown 2
+5
+Toontown 0 Paton 4 Westend 4
+Paton 6 Anterson 3
+Westend 2 Paulson 10 Anterson 5
+Anterson 4 Paulson 8
+Paulson 3 Paton 5
+20
+A 0 B 1 C 1 D 1 E 1 F 1 G 1 H 5 I 5 J 3
+B 0 C 30 D 30 M 30 P 30
+C 0 D 30 G 30 L 20 S 20
+D 0 K 20 O 30 T 20
+E 0 I 20 P 30 Q 20
+F 0 J 20 N 30 S 30
+G 0 R 20 
+H 0 M 20 K 30
+I 0 J 40 Q 25 R 15
+J 0 D 30 P 30
+K 0 C 20 T 15
+L 0 B 35 P 20 R 15
+M 0 N 20
+N 0 O 40
+O 0 P 13 E 18
+P 0 S 15 C 17 G 35
+Q 0 J 30 T 15
+R 0 F 20 K 20
+S 0 T 10 R 15 H 20
+T 20
+20
+A 0 B 10 C 1 D 1 E 1 F 1 G 1 H 5 I 5 J 3
+B 0 C 30 D 30 M 30 P 30
+C 0 D 30 G 30 L 20 S 20
+D 0 K 20 O 30 T 20
+E 0 I 20 P 30 Q 20
+F 0 J 20 N 30 S 30
+G 0 R 20 
+H 0 M 20 K 30
+I 0 J 40 Q 25 R 15
+J 0 D 30 P 30
+K 0 C 20 T 15
+L 0 B 35 P 20 R 15
+M 0 N 20
+N 0 O 40
+O 0 P 13 E 18
+P 0 S 15 C 17 G 35
+Q 0 J 30 T 15
+R 0 F 20 K 20
+S 0 T 10 R 15 H 20
+T 20
+20
+A 0 B 10 C 1 D 1 E 1 F 1 G 1 H 5 I 5 J 3
+B 0 C 30 D 30 M 30 P 30
+C 0 D 30 G 30 L 20 S 20
+D 0 K 20 O 30 T 4
+E 0 I 20 P 30 Q 20
+F 0 J 20 N 30 S 30
+G 0 R 20 
+H 0 M 20 K 30
+I 0 J 40 Q 25 R 15
+J 0 D 30 P 30
+K 0 C 20 T 5
+L 0 B 35 P 20 R 15
+M 0 N 20
+N 0 O 40
+O 0 P 13 E 18
+P 0 S 15 C 17 G 35
+Q 0 J 30 T 5
+R 0 F 20 K 20
+S 0 T 5 R 15 H 20
+T 20
+20
+A 0 B 10 C 10 D 1 E 1 F 1 G 1 H 5 I 5 J 3
+B 2 C 30 D 30 M 30 P 30
+C 2 D 30 G 30 L 20 S 20
+D 2 K 20 O 30 T 4
+E 2 I 20 P 30 Q 20
+F 2 J 20 N 30 S 30
+G 2 R 20 
+H 2 M 20 K 30
+I 2 J 40 Q 25 R 15
+J 2 D 30 P 30
+K 2 C 20 T 5
+L 2 B 35 P 20 R 15
+M 2 N 20
+N 2 O 40
+O 2 P 13 E 18
+P 2 S 15 C 17 G 35
+Q 2 J 30 T 5
+R 2 F 20 K 20
+S 2 T 5 R 15 H 20
+T 2
+20
+A 0 B 10 C 10 D 1 E 3 F 1 G 1 H 5 I 5 J 3
+B 2 C 30 D 30 M 30 P 30
+C 2 D 30 G 30 L 20 S 20
+D 2 K 20 O 30 T 4
+E 2 I 20 P 30 Q 20
+F 2 J 20 N 30 S 30
+G 2 R 20 
+H 2 M 20 K 30
+I 2 J 40 Q 25 R 15
+J 2 D 30 P 30
+K 2 C 20 T 5
+L 2 B 35 P 20 R 15
+M 2 N 20
+N 2 O 40
+O 2 P 13 E 18
+P 2 S 15 C 17 G 35
+Q 2 J 30 T 5
+R 2 F 20 K 20
+S 2 T 5 R 15 H 20
+T 2
+4
+A 0 B 999 C 999
+B 0 C 1 D 999
+C 0 D 999
+D 999
+

@@ -1,0 +1,62 @@
+9
+2
+2 0 llrr
+-2 0 rrll
+2
+2 0 rrll
+-2 0 llrr
+3
+2 0 llrr
+-2 0 rrll
+0 5 lurd--
+5
+0 0 rruulldd
+2 2 lurd
+4 4 lluurrdd
+0 3 rrrlllllrr
+3 0 rrrlllllrr
+5
+10 0 rruulldd
+20 2 lurd
+40 4 lluurrdd
+0 30 rrrlllllrr
+30 0 rrrlllllrr
+7
+0 0 rruulldd
+2 2 lurd
+4 4 lluurrdd
+0 3 rrrlllllrr
+3 0 rrrlllllrr
+0 6 ududld
+6 0 rududu
+7
+0 0 rruulldd
+20 2 lurd
+40 4 lluurrdd
+0 30 rrrlllllrr
+30 0 rrrlllllrr
+0 60 ududld
+60 0 rududu
+10
+0 0 ruld
+0 2 rdlu
+2 0 lurd
+2 2 ldru
+1 4 ddduuu
+10 0 ruld
+10 2 rdlu
+12 0 lurd
+12 2 ldru
+11 4 ddduuu
+10
+0 0 ruld
+0 20 rdlu
+2 0 lurd
+2 20 ldru
+1 40 ddduuu
+10 0 ruld
+10 20 rdlu
+12 0 lurd
+12 20 ldru
+11 40 ddduuu
+

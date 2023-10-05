@@ -1,0 +1,40 @@
+Daisy_Red_Ryder_Air_Rifle 64.14 2 Revenue: 128.28
+Bunny_Suit_Pajamas 120.00 1 Revenue: 120.0
+Leg_Lamp 7.40 5 Revenue: 37.0
+Total Revenue: 285.28
+Red_and_Green_Foil_Gift_Wrap 19.99 4 Revenue: 79.96
+Deluxe_Fruitcake 34.19 1 Revenue: 34.19
+Total Revenue: 114.15
+C 100.0 9 Revenue: 900.0
+J 34.0 5 Revenue: 170.0
+G 1.5 95 Revenue: 142.5
+D 1.5 95 Revenue: 142.5
+E 1.8 61 Revenue: 109.8
+F 1.1 73 Revenue: 80.3
+H 1.8 42 Revenue: 75.6
+B 1.1 66 Revenue: 72.6
+I 1.9 34 Revenue: 64.6
+A 1.2 28 Revenue: 33.6
+Total Revenue: 1791.5
+J 10 1 Revenue: 10.0
+I 9 1 Revenue: 9.0
+H 8 1 Revenue: 8.0
+G 7 1 Revenue: 7.0
+F 6 1 Revenue: 6.0
+E 5 1 Revenue: 5.0
+D 4 1 Revenue: 4.0
+C 3 1 Revenue: 3.0
+B 2 1 Revenue: 2.0
+A 1 1 Revenue: 1.0
+Total Revenue: 55.0
+F 1 10 Revenue: 10.0
+A 1 9 Revenue: 9.0
+C 1 8 Revenue: 8.0
+G 1 7 Revenue: 7.0
+I 1 6 Revenue: 6.0
+J 1 5 Revenue: 5.0
+H 1 4 Revenue: 4.0
+E 1 3 Revenue: 3.0
+B 1 2 Revenue: 2.0
+D 1 1 Revenue: 1.0
+Total Revenue: 55.0

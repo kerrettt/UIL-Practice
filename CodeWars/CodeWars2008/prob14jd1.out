@@ -1,0 +1,43 @@
+This program has MULTIPLE CORRECT SOLUTIONS.
+
+The key item for judging is the Bacon Number for each actor. If the
+Bacon Numbers are correct, then the program is correct. Don't worry
+about verifying the names of the actors and movies.
+
+
+NataliePortman has a Bacon number of 3
+NataliePortman was in ThePhantomMenace with LiamNeeson
+LiamNeeson was in BatmanBegins with GaryOldman
+GaryOldman was in JFK with KevinBacon
+
+LucyLiu has a Bacon number of 4
+LucyLiu was in LuckyNumberSlevin with BruceWillis
+BruceWillis was in 16Blocks with MosDef
+MosDef was in TheItalianJob with DonaldSutherland
+DonaldSutherland was in JFK with KevinBacon
+
+KatieHolmes has a Bacon number of 2
+KatieHolmes was in BatmanBegins with GaryOldman
+GaryOldman was in JFK with KevinBacon
+
+JoePesci has a Bacon number of 1
+JoePesci was in JFK with KevinBacon
+
+EliasKoteas has a Bacon number of 3
+EliasKoteas was in Shooter with MarkWahlberg
+MarkWahlberg was in TheItalianJob with DonaldSutherland
+DonaldSutherland was in JFK with KevinBacon
+
+WillSmith has a Bacon number of 2
+WillSmith was in MenInBlack with TommyLeeJones
+TommyLeeJones was in JFK with KevinBacon
+
+SteveMartin has a Bacon number of 3
+SteveMartin was in ThePinkPanther with KevinKline
+KevinKline was in APrarieHomeCompanion with TommyLeeJones
+TommyLeeJones was in JFK with KevinBacon
+
+MattDamon has a Bacon number of 3
+MattDamon was in Dogma with LindaFiorentino
+LindaFiorentino was in MenInBlack with TommyLeeJones
+TommyLeeJones was in JFK with KevinBacon

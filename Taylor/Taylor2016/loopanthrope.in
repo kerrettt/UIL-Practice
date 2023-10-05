@@ -1,0 +1,32 @@
+6
+3
+for(int k=0;k<3;k++){
+list.get(k).move(k);
+}
+4
+for(int j=40;j<50;j++){
+move();
+attack(j);
+}
+5
+for(int zed=-3;zed<5;zed++){
+move( zed -2);
+rotate( zed *3);
+clean();
+}
+3
+for(int i=0;i<3;i++){
+iiii[i];
+}
+3
+for(int l=1;l<7;l++){
+lIl[l].get(l);
+}
+7
+for(int w=1;w<7;w++){
+wowowow -= w;
+wowowow *= w;
+wowowow += w;
+wowowow /= 2;
+clear();
+}

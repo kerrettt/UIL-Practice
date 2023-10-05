@@ -1,0 +1,101 @@
+6
+3
+IdrA vs Huk
+INcontroL vs Tyler
+Ret vs Jinro
+3
+Day[9] Jinro Tyler INcontroL
+Tasteless IdrA
+Artosis Huk
+3
+IdrA vs Huk
+INcontroL vs Tyler
+Ret vs Jinro
+3
+Day[9] Jinro Tyler INcontroL
+Tasteless IdrA Ret
+Artosis Huk
+3
+IdrA vs Huk
+INcontroL vs Tyler
+Ret vs Jinro
+3
+Day[9] Idra Huk
+Tasteless IdrA
+Artosis Huk
+9
+a vs b
+c vs d
+e vs f
+g vs h
+i vs j
+k vs l
+m vs n
+o vs p
+q vs r
+14
+c1 a e i o
+c2 b e d
+c3 h o p
+c4 a b
+c5 c d
+c6 a c
+c7 b d
+c8 h b a e j
+c9 i j k l
+c10 k l m n
+c11 m n o p
+c12 k m o q
+c13 l n p r
+c14 g i r p
+9
+a vs b
+c vs d
+e vs f
+g vs h
+i vs j
+k vs l
+m vs n
+o vs p
+q vs r
+14
+c1 a b c d e
+c2 b c d e f
+c3 c d e f g
+c4 d e f g h
+c5 e f g h i
+c6 f g h i j
+c7 g h i j k
+c8 h i j k l
+c9 a c g i l
+c10 b d f h j
+c11 n o p q r
+c12 c f i l o
+c13 d g j m p
+c14 a e i m q
+9
+a vs b
+c vs d
+e vs f
+g vs h
+i vs j
+k vs l
+m vs n
+o vs p
+q vs r
+14
+c1 i o
+c2 b e d
+c3 h o p
+c4 b e d
+c5 h o p
+c6 b e d
+c7 h o p
+c8 b e d
+c9 h o p
+c10 i o
+c11 i o p
+c12 i o q
+c13 a r
+c14 g i r p
+

@@ -1,0 +1,245 @@
+10
+Austin Houston
+4
+Austin Dallas
+Dallas Waco
+Houston Temple
+Waco Temple
+2
+D-ll-s
+W-c-
+Austin Houston
+2
+Austin Houston
+Austin Halifax
+1
+H------
+sta00 sta10
+40
+sta00 sta01
+sta00 sta02
+sta00 sta03
+sta00 sta04
+sta00 sta05
+sta00 sta06
+sta00 sta07
+sta00 sta08
+sta00 sta09
+sta01 sta02
+sta01 sta03
+sta01 sta04
+sta01 sta05
+sta01 sta06
+sta01 sta07
+sta01 sta08
+sta01 sta09
+sta02 sta03
+sta02 sta04
+sta02 sta05
+sta02 sta05
+sta02 sta06
+sta02 sta07
+sta02 sta08
+sta02 sta09
+sta03 sta04
+sta03 sta05
+sta03 sta06
+sta03 sta07
+sta03 sta08
+sta03 sta09
+sta04 sta05
+sta04 sta06
+sta04 sta07
+sta04 sta08
+sta04 sta09
+sta05 sta06
+sta06 sta07
+sta07 sta08
+sta08 sta10
+8
+s--02
+s--03
+s--04
+s--05
+s--06
+s--07
+s--08
+s--10
+sta00 sta10
+40
+sta00 sta01
+sta00 sta02
+sta00 sta03
+sta00 sta04
+sta00 sta05
+sta00 sta06
+sta00 sta07
+sta00 sta08
+sta00 sta09
+sta01 sta02
+sta01 sta03
+sta01 sta04
+sta01 sta05
+sta01 sta06
+sta01 sta07
+sta01 sta08
+sta01 sta09
+sta02 sta03
+sta02 sta04
+sta02 sta05
+sta02 sta05
+sta02 sta06
+sta02 sta07
+sta02 sta08
+sta02 sta09
+sta03 sta04
+sta03 sta05
+sta03 sta06
+sta03 sta07
+sta03 sta08
+sta03 sta09
+sta04 sta05
+sta04 sta06
+sta04 sta07
+sta04 sta08
+sta04 sta09
+sta05 sta06
+sta06 sta07
+sta07 sta08
+sta08 sta10
+8
+sta--
+sta--
+sta--
+sta--
+sta--
+sta--
+sta--
+sta--
+sta00 sta10
+40
+sta00 sta01
+sta00 sta02
+sta00 sta03
+sta00 sta04
+sta00 sta05
+sta00 sta06
+sta00 sta07
+sta00 sta08
+sta00 sta09
+sta01 sta02
+sta01 sta03
+sta01 sta04
+sta01 sta05
+sta01 sta06
+sta01 sta07
+sta01 sta08
+sta01 sta09
+sta02 sta03
+sta02 sta04
+sta02 sta05
+sta02 sta05
+sta02 sta06
+sta02 sta07
+sta02 sta08
+sta02 sta09
+sta03 sta04
+sta03 sta05
+sta03 sta06
+sta03 sta07
+sta03 sta08
+sta03 sta09
+sta04 sta05
+sta04 sta06
+sta04 sta07
+sta04 sta08
+sta04 sta09
+sta05 sta06
+sta06 sta07
+sta07 sta08
+sta08 sta10
+8
+sta--
+sta--
+sta--
+sta--
+sta--
+sta--
+sta-7
+sta--
+city1 city3
+8
+city1 town1
+city2 town1
+city2 town2
+city3 town2
+city3 town3
+city4 town3
+city4 town4
+city1 town4
+4
+town-
+city-
+town-
+city-
+city1 city3
+8
+city1 town1
+city2 town1
+city2 town2
+city3 town2
+city3 town3
+city4 town3
+city4 town4
+city1 town4
+4
+town-
+city1
+town-
+city-
+city1 city3
+8
+city1 town1
+city2 town1
+city2 town2
+city3 town2
+city3 town3
+city4 town3
+city4 town4
+city1 town4
+4
+town-
+city-
+town-
+city4
+city1 city3
+8
+city1 city2
+city2 city3
+city3 city4
+town1 town2
+town2 town3
+town3 town4
+city1 city4
+city1 town4
+4
+town-
+town-
+town-
+-----
+city1 city3
+8
+city1 town1
+city2 town1
+city2 town2
+city3 town2
+city3 town3
+city4 town3
+city4 town4
+city1 town4
+4
+-----
+-----
+-----
+-----
+

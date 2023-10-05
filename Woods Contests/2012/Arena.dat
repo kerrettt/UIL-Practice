@@ -1,0 +1,119 @@
+10
+10 10 16
+XXXXXXXXXX
+X E G    X
+X X    X X
+X        X
+X        X
+X        X
+X X    X X
+X   D    X
+X       SX
+XXXXXXXXXX
+8 5 8
+XXXXX
+XD  X
+X  EX
+XXXXX
+XXXXX
+XG  X
+X  SX
+XXXXX
+20 20 24
+XXXXXXXXXXXXXXXXXXXX
+X                  X
+X   XX        XX   X
+X   XX        XX   X
+X                  X
+X      XXXXX       X
+X      X   X       X
+X      X G X       X
+X      XXXXX       X
+X   S              X
+X                  X
+X       XX         X
+X       XX         X
+X                  X 
+X    D             X
+X   XX       XX    X
+X   XX       XX    X
+X              E   X
+X                  X
+XXXXXXXXXXXXXXXXXXXX
+10 10 15
+XXXXXXXXXX
+X E      X
+X X    X X
+X        X
+X        X
+X        X
+X X    X X
+X  GD    X
+X       SX
+XXXXXXXXXX
+8 5 11
+XXXXX
+X   X
+X  EX
+X  XX
+X   X
+XX  X
+X  SX
+XXXXX
+16 20 14
+XXXXXXXXXXXXXXXXXXXX
+XXXXXX   G    XXXXXX
+XXX             XXXX
+XX    E           XX
+X    XX       XX   X
+X    XX       XX   X
+X                  X
+X                  X
+X             D    X
+X           S      X 
+X    XX       XX   X
+X    XX       XX   X
+XX                XX
+XXXX            XXXX
+XXXXXX        XXXXXX
+XXXXXXXXXXXXXXXXXXXX
+5 5 6
+XXXXX
+X GEX 
+X DSX
+X   X
+XXXXX
+16 20 25
+XXXXXXXXXXXXXXXXXXXX
+XXXXXX        XXXXXX
+XXX             XXXX
+XX  S             XX
+X    XX      XX    X
+X    XX      XX    X
+X      XXG XX      X
+X        XX        X
+X        XX        X
+X      XXD XX      X 
+X    XX      XX    X
+X    XX      XX    X
+XX          E     XX
+XXXX            XXXX
+XXXXXX        XXXXXX
+XXXXXXXXXXXXXXXXXXXX
+3 4 2
+XXXX
+XESX 
+XXXX
+10 10 8
+XXXXXXXXXX
+X EG     X
+X X    X X
+X        X
+X        X
+X        X
+X X    X X
+X        X
+X      DSX
+XXXXXXXXXX
+
+

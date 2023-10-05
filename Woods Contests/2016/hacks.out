@@ -1,0 +1,96 @@
+A: B C D E
+C: D
+
+A: B C D
+F: E
+G: A B C D E F
+
+A: B C
+
+A: A C D E F G H J L O P S T V Z
+B: A C D E F G H J K L O P S T U V Y Z
+C: E J Z
+D: F P T V
+H: O
+
+A: B C E F H I J K L M N O P Q S U W Y Z
+B: J N O S
+C: L N W
+D: F P
+E: I L
+F: P
+
+A: A B E F H J O P Q T U W X
+B: Q W
+C: C I
+D: A B E F H J O P Q R T U W X
+E: T U
+F: E T U
+
+A: A B C D G I J K P Q S T U V Y
+B: A B C D G I J K P Q S T U V Y
+E: K
+H: I
+
+A: A H L N P R W
+B: A G H I J K L M N P Q R V W Y
+C: U
+D: C E H K P R S T U
+E: T
+G: K M R
+I: Y
+
+A: A B C D E F G I J K O P R W X Y Z
+B: A B C D E F G I J K O P R W X Y Z
+C: A B C D E F G I J K O P R W X Y Z
+E: I
+H: L
+
+A: A B C F G K L Q R U V W X
+B: F G L
+C: B F G K L Q R U V W
+D: D G H
+E: S Z
+F: L
+H: D G H
+
+A: L Z
+B: L U
+C: K L T U
+D: N
+E: I
+F: V
+
+A: I K P Q X
+B: D I
+C: I Y
+D: I
+E: Y
+H: L
+
+A: A C G I O P Q S T Z
+B: A C D E G I J N O P Q S T X Z
+C: A C G I O P Q S T Z
+D: A C G I N O P Q S T Z
+E: X
+G: A C G I O P Q S T Z
+
+A: A F I M O R V
+B: D H J M R X
+C: G N V
+D: R
+E: O
+I: V
+
+A: B C D E F G H I J K L M N P Q T U V Y
+B: C D H L M N P T V Y
+C: L P
+D: C L P T
+H: N
+
+A: N R Y
+B: D F G K M Q R V
+C: Q
+D: G R
+E: V
+F: Q
